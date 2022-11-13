@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "335346055791",
+    "project_id": "firestore-firebase-app-8fe65",
+    "storage_bucket": "firestore-firebase-app-8fe65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335346055791:android:db6c7831d7412791136b9a",
+        "android_client_info": {
+          "package_name": "com.example.firestorefirebasesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335346055791-77q47hnftl1krbtbufho3j1g700g76r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHiETPFN4p9JNUtXlUAQOCur_BKowOoSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335346055791-77q47hnftl1krbtbufho3j1g700g76r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335346055791:android:c4d27f07176ce698136b9a",
+        "android_client_info": {
+          "package_name": "com.example.recyvlerview_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335346055791-77q47hnftl1krbtbufho3j1g700g76r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHiETPFN4p9JNUtXlUAQOCur_BKowOoSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335346055791-77q47hnftl1krbtbufho3j1g700g76r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
